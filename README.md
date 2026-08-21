@@ -1,1 +1,1 @@
-# Practice Activities - Web Dev
+# Practice Activities - Web Dev Fundamentals
