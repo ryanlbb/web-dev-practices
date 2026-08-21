@@ -1,1 +1,1 @@
-# Practice Repo
+# Practice Activities - Web Dev
