@@ -1,0 +1,17 @@
+{
+  "name": "sem-correcao-automatica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Bruno Góis Mateus",
+  "license": "ISC",
+  "dependencies": {
+    "@linthtml/linthtml": "^0.9.5",
+    "eslint": "^8.48.0",
+    "stylelint": "^15.10.3",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
