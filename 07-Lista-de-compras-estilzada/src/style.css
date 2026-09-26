@@ -1,0 +1,11 @@
+h2 {
+  font-size: 1.2em;
+}
+
+p {
+  color: grey;
+}
+
+p.price {
+  font-weight: bold;
+}

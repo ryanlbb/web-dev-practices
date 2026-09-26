@@ -1,0 +1,35 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+header {
+  background-color: #1282A2;
+}
+
+link {
+  color: #FEFCFB;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #001F54;
+}
+
+.date {
+  font-size: 14px;
+  font-style: italic;
+  color: #034078;
+}
+
+#destaques li :nth-child(2n+1) {
+  color: #B0E3F1;
+}
+
+h3 a {
+  color: #1282A2;
+}

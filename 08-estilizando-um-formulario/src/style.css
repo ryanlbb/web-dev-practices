@@ -1,0 +1,17 @@
+label {
+  font-size: 1.1em;
+}
+
+input {
+  border-radius: 3px;
+  background-color: #f4f4f4;
+}
+
+input[type=submit] {
+  background-color: #007bff;
+  color: white;
+}
+
+div {
+  margin-bottom: 10px;
+}
