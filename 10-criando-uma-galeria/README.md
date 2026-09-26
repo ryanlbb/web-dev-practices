@@ -10,7 +10,7 @@ O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
 * src/css/estilo.css -> quando for necessário alterar CSS
 * src/js/script.js -> quando for necessário alterar JavaScript
 
-## Instruções:
+## Instruções
 
  1. O arquivo **index.html** possui o código a seguir:
 
@@ -40,7 +40,6 @@ O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
   
 ```
 
-
 1. Posicione o título principal de foram centralizada horizontalmente
 1. Altere a cor da fonte do título principal para *#043a83*, utilize a font-family cursive
 1. Altere a cor do plano de fundo da página inteitra para *azure*
@@ -59,5 +58,5 @@ O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
 
 **Experimente validar o seu código CSS em sites como:**
 
-- <a href="https://jigsaw.w3.org/css-validator/" target="_blank">W3C CSS validation Service</a>
-- <a href="https://beautifytools.com/css-validator.php" hreflang="en" target="_blank">Beatifytools CSS validator</a>
+* <a href="https://jigsaw.w3.org/css-validator/" target="_blank">W3C CSS validation Service</a>
+* <a href="https://beautifytools.com/css-validator.php" hreflang="en" target="_blank">Beatifytools CSS validator</a>

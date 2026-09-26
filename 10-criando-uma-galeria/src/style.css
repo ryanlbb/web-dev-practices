@@ -1,0 +1,38 @@
+body {
+  background-color: azure;
+}
+
+h1 {
+  text-align: center;
+  color: #043A83;
+}
+
+figcaption {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #043A83;
+}
+
+img+a {
+  color: #007BFF;
+}
+
+figcaption+a:hover {
+  color: rgb(150, 140, 243);
+}
+
+img {
+  width: 100%;
+  border: 15px solid grey;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 2px 2px 15px 0px;
+}
+
+img:hover {
+  filter: brightness(80%);
+}
+
+figcaption::before {
+  content: "📷 | "
+}
