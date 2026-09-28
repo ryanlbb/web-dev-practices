@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: grey;
+}
+
+#flag {
+  min-width: 100%;
+  display: flex;
+
+}
+
+#s1,
+#s2,
+#s3 {
+  height: 300px;
+  flex: 1;
+}
+
+#s1 {
+  background-color: green;
+}
+
+#s2 {
+  background-color: white;
+}
+
+#s3 {
+  background-color: red;
+}

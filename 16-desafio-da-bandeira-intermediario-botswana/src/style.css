@@ -1,0 +1,33 @@
+* {
+  box-sizing: content-box;
+}
+
+
+#flag {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  width: 100%;
+}
+
+.blue {
+  background-color: #2eb4e8;
+  flex: 9
+}
+
+.white {
+  background-color: white;
+  flex: 1;
+}
+
+.black {
+  background-color: black;
+  flex: 7
+}
+
+#flag,
+.white,
+.black,
+.blue {
+  width: 100%
+}
