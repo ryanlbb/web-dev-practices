@@ -1,0 +1,30 @@
+body {
+  box-sizing: border-box;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+header h1 {
+  margin-top: 0px
+}
+
+header h3 {
+  font-weight: italic;
+}
+
+header {
+  text-align: justify;
+  display: flow-root;
+}
+
+#img1 {
+  float: left;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img2 {
+  float: right;
+  width: 300px;
+  margin-left: 20px;
+}
